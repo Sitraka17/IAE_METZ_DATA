@@ -49,10 +49,10 @@
 
 ---
 
-## **4. Évaluation des Étudiants**  
-- 📊 **Étude de cas (50%)** : Analyse empirique d’un fonds (performance, risques)  
-- 📝 **Quiz et participation (20%)**  
-- 💻 **Projet final (30%)** : Implémentation d’une stratégie d’investissement en Python  
+## **4. Évaluation des Étudiants via un Projet Final **  
+- 📊 **Analyse empirique d’un fonds (performance, risques)**
+- 📝 **présentation orale**
+- 💻 **Implémentation d’une stratégie d’investissement en Python**
 
 ---
 
