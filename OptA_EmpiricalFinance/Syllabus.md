@@ -49,7 +49,7 @@
 
 ---
 
-## **4. Évaluation des Étudiants via un Projet Final **  
+## **4. Évaluation des Étudiants via un Projet Final**  
 - 📊 **Analyse empirique d’un fonds (performance, risques)**
 - 📝 **présentation orale**
 - 💻 **Implémentation d’une stratégie d’investissement en Python**
