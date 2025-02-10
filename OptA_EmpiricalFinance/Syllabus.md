@@ -60,7 +60,8 @@
 📚 **Livres** :  
 - *Investment Science* – David Luenberger  
 - *Quantitative Equity Portfolio Management* – Richard Grinold & Ronald Kahn  
-- *Asset Management: A Systematic Approach to Factor Investing* – Andrew Ang  
+- *Asset Management: A Systematic Approach to Factor Investing* – Andrew Ang   https://amzn.to/4gvNqCY 
+
 
 📈 **Data & Outils** :  
 - Bases de données financières : Yahoo Finance, Bloomberg Terminal (si disponible)  
