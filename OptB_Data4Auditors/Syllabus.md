@@ -1,1 +1,1 @@
-Allez ho 
+Ressources prochainement disponibles. 
