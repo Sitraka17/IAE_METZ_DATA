@@ -49,9 +49,5 @@ Modélisation : Développement de modèles prédictifs ou explicatifs pertinents
 Visualisation : Création de graphiques et de tableaux pour illustrer vos conclusions.
 Rapport Final : Rédaction d'un rapport détaillant votre méthodologie, vos résultats et vos recommandations.
 Présentation : Présentation orale de votre projet devant la classe et un jury.
-Évaluation :
-Qualité de l'Analyse : 40%
-Pertinence du Modèle : 30%
-Clarté du Rapport : 20%
-Présentation Orale : 10%
-Bonne chance à tous pour votre projet final !
+
+
