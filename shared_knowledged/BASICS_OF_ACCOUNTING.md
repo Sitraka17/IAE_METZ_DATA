@@ -1,5 +1,3 @@
-Creating a flashcard for the basics of accounting that a Junior Auditor must know is a great idea! Here are some key concepts and terms that are essential:
-
 ### Basic Accounting Concepts
 
 1. **Financial Statements**
@@ -67,4 +65,5 @@ Creating a flashcard for the basics of accounting that a Junior Auditor must kno
 20. **Ethical Standards**
     - Principles of honesty, integrity, and objectivity that guide the actions of accountants and auditors.
 
-These concepts form the foundation of accounting knowledge that a Junior Auditor should be familiar with. If you need a visual flashcard or further details on any of these topics, feel free to ask!
+These concepts form the foundation of accounting knowledge that a Junior Auditor should be familiar with.Don't hesitate to use LLMs to know more details. 
+If you need a visual flashcard or further details on any of these topics then use chatGPT or Mistral AI 
