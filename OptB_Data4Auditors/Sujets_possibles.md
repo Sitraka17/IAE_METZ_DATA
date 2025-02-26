@@ -44,6 +44,7 @@ Compétences : Analyse des fusions et acquisitions, évaluation des synergies, a
 Description : Analysez les stratégies de diversification des actifs utilisées par les fonds d'investissement au Luxembourg et leur efficacité.
 Compétences : Théorie du portefeuille, analyse des corrélations, gestion des risques.
 Attentes :
+
 Analyse des Données : Utilisation de techniques statistiques et de modélisation pour analyser les données financières.
 Modélisation : Développement de modèles prédictifs ou explicatifs pertinents pour le sujet choisi.
 Visualisation : Création de graphiques et de tableaux pour illustrer vos conclusions.
