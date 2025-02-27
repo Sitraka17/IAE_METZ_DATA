@@ -28,11 +28,11 @@ def calculer_ratios(df):
 
 df = calculer_ratios(df)
 
-# Affichage des statistiques descriptives
+# Affichage des statistiques descriptives via la méthode DESCRIBE() 
 print("Statistiques descriptives des ratios :")
 display(df[['Marge brute', 'Variation journalière', 'Volatilité', 'RSI']].describe())
 
-# Visualisation des tendances financières
+#BLOC Viz: Visualisation des tendances financières 
 plt.figure(figsize=(12, 6))
 sns.lineplot(data=df, x=df.index, y='AAPL.Close', label='Cours de clôture')
 sns.lineplot(data=df, x=df.index, y='Moyenne mobile 20j', label='Moyenne mobile 20j', linestyle="--")
@@ -41,7 +41,7 @@ plt.title("Évolution du cours de clôture d'Apple avec moyennes mobiles")
 plt.legend()
 plt.show()
 
-# Heatmap des corrélations entre ratios financiers
+# Heatmap des corrélations entre ratios financiers ++++
 plt.figure(figsize=(10, 6))
 sns.heatmap(df[['Marge brute', 'Variation journalière', 'Volatilité', 'RSI']].corr(), annot=True, cmap='coolwarm')
 plt.title("Corrélation entre les indicateurs financiers")
