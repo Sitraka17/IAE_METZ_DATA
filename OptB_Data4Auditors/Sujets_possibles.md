@@ -2,6 +2,7 @@ Projet Final : Analyse de Données pour le Master 2 en Finance et Fonds d'Invest
 Objectif du Projet :
 Le projet final vise à appliquer les compétences acquises en analyse de données à des problématiques concrètes du secteur financier, en particulier dans le contexte des fonds d'investissement au Luxembourg. Ce projet vous permettra de démontrer votre capacité à analyser des données financières, à développer des modèles prédictifs et à communiquer vos conclusions de manière efficace.
 
+
 Sujets Proposés :
 Analyse de la Performance des Fonds d'Investissement :
 
