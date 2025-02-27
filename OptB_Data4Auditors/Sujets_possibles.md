@@ -1,6 +1,4 @@
-Voici la version révisée de votre projet final au format Markdown pour un dépôt GitHub :
 
----
 
 # Projet Final : Analyse de Données pour le Master 2 en Finance et Fonds d'Investissement
 
