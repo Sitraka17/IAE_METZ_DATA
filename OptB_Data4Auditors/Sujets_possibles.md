@@ -1,6 +1,6 @@
 
 
-# Projet Final : Analyse de Données pour le Master 2 en Finance et Fonds d'Investissement
+# Projet Final : Analyse de Données pour le Master 2 en Finance et Fonds d'Investissement de l'IAE de METZ  _ Sitraka
 
 ## Objectif du Projet
 
