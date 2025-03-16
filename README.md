@@ -10,3 +10,5 @@ Slides will be shared on the Moodle site.
 
 
 https://github.com/microsoft/Data-Science-For-Beginners
+
+Sharpe Ratio : https://youtu.be/9HD6xo2iO1g?si=gIuu42Aoz9Z4PP5q 
